@@ -1,0 +1,29 @@
+{
+    "name": "Indigo",
+    "website": "https://indigofinance.io",
+    "description": "Indigo is a ",
+    "explorer": "https://bscscan.com/token/0x73addb04da0aa4e85bd2b9e34354164b8ebeb3c5",
+    "type": "BEP20",
+    "symbol": "Indigo",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x73addb04da0aa4e85bd2b9e34354164b8ebeb3c5",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/Indigo_Token"
+        },
+        {
+            "name": "Livecoinwatch",
+            "url": "https://www.livecoinwatch.com/price/Indigo-INDIGO"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@tokenindigo/"
+        },
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/company/indigo-token/"
+        }
+    ]
+} 
